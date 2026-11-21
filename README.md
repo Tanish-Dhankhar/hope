@@ -119,9 +119,3 @@ python3 kit/check/check.py --map-dir /arena -- docker run --rm -i --network none
 - `mechfight.py` is the unmodified official wrapper and must keep its name: the
   bot imports it as `mechfight`.
 - The only code beyond the kit is `hope.py`.
-
-## Credits
-
-Developed by the team from a base bot by
-[@lmaccart](https://github.com/lmaccart) (`lmaccart/mech-royale`), built on the
-official Mech Royale kit. Strategy, tuning, and this build are the team's own.
